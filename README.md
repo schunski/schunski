@@ -1,6 +1,6 @@
 ## Welcome!
 
-I am currently a software engineering studend at [FAG - Fundação Assis Gurgacz.](https://www.fag.edu.br/)
+I am currently a software engineering student at [FAG - Fundação Assis Gurgacz.](https://www.fag.edu.br/)
 
 ## Languages
 
