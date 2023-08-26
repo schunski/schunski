@@ -6,9 +6,6 @@ I am currently a software engineering student at [FAG - Fundação Assis Gurgacz
 
 * 🇧🇷 Brazilian Portuguese (Native Language)
 * 🇺🇸 American English (CEFR B1~B2)
-* 🇯🇵 Japanese (JLPT N5)
-* 🇰🇷 Korean (TOPIK I)
-* 🇷🇺 Russian (ТЭУ~A1)
 
 ## Technologies
 
