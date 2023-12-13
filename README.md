@@ -1,6 +1,6 @@
 ## Welcome!
 
-I am currently a software engineering student at [FAG - Fundação Assis Gurgacz.](https://www.fag.edu.br/)
+I am currently a software engineering student at [Biopark](https://biopark.com.br/)
 
 ## Languages
 
@@ -9,8 +9,8 @@ I am currently a software engineering student at [FAG - Fundação Assis Gurgacz
 
 ## Technologies
 
-<code><img height="20" alt="csharp" title="C#" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"></code>
 <code><img height="20" alt="git" title="Git" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
+<code><img height="20" alt="java" title="Java" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <code><img height="20" alt="javascript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="python" title="Python" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
 
