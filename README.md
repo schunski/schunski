@@ -1,6 +1,6 @@
 ### Welcome!
 
-I am currently a software engineering student at [Biopark](https://biopark.com.br/) and [PUCPR](https://www.pucpr.br/)
+I am currently a Science and Technology student at [Biopark](https://biopark.com.br/) and B.D & A.I [PUCPR](https://www.pucpr.br/)
 
 ### Social Media
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinnecristinapereira//)](https://www.linkedin.com/in/karinnecristinapereira/)
