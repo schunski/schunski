@@ -1,22 +1,27 @@
-## Welcome!
+### Welcome!
 
-I am currently a software engineering student at [Biopark](https://biopark.com.br/)
+I am currently a software engineering student at [Biopark](https://biopark.com.br/) and [PUCPR](https://www.pucpr.br/)
 
+### Social Media
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinnecristinapereira//)](https://www.linkedin.com/in/karinnecristinapereira/)
 
-
-## Languages
+### Languages
 
 * 🇧🇷 Brazilian Portuguese (Native Language)
 * 🇺🇸 American English (CEFR B1~B2)
 
-## Technologies
+### Technologies
 
-<code><img height="20" alt="git" title="Git" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
-<code><img height="20" alt="java" title="Java" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
-<code><img height="20" alt="javascript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="python" title="Python" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=Mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
 
-## GitHub Status
+
+<b> :chart_with_upwards_trend: Statistics</b>:
 
 <div>
 <a href="https://github.com/schunski">
