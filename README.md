@@ -1,24 +1,34 @@
 ### Welcome!
 
-I am currently a Science and Technology student at [Biopark](https://biopark.com.br/) and B.D & A.I [PUCPR](https://www.pucpr.br/)
+### Hi, i'm Júnior - aka Juni 😀
 
-### Social Media
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/schunski//)](https://www.linkedin.com/in/schunski/)
+##
+
+### Education
+
+Information Systems student at [UNIPAR](https://www.unipar.br/) and Interdisciplinary Business [PUCPR](https://www.pucpr.br/)
+
+##
 
 ### Languages
 
 * 🇧🇷 Brazilian Portuguese (Native Language)
 * 🇺🇸 American English (CEFR B1~B2)
 
+##
+
 ### Technologies
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=Mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
-![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
+* 💻 Improving at C# | Xamarin | Maui
+
+##
+
+### Social Media
+
+[![Linkedin: Júnior Schunski](https://img.shields.io/badge/-schunski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/schunski/)](https://www.linkedin.com/in/schunski/)
+![GitHub followers](https://img.shields.io/github/followers/schunski?label=Follow&style=social)
+
+##
 
 
 <b> :chart_with_upwards_trend: Statistics</b>:
