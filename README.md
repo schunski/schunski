@@ -6,7 +6,7 @@
 
 ### Education
 
-Information Systems student at [UNIPAR](https://www.unipar.br/) and Interdisciplinary Business [PUCPR](https://www.pucpr.br/)
+ Data Science student at [BIOPARK](https://bioparkeducacao.com/)
 
 ##
 
@@ -19,7 +19,7 @@ Information Systems student at [UNIPAR](https://www.unipar.br/) and Interdiscipl
 
 ### Technologies
 
-* 💻 Improving at C# | Xamarin | Maui
+* 💻 Improving at C# | .NET | Flutter | Python
 
 ##
 
