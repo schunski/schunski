@@ -6,7 +6,7 @@
 
 ### Education
 
- Data Science student at [BIOPARK](https://bioparkeducacao.com/)
+ Internet Systems student at [UTFPR]([https://bioparkeducacao.com/](https://www.utfpr.edu.br/))
 
 ##
 
@@ -19,7 +19,7 @@
 
 ### Technologies
 
-* 💻 Improving at C# | .NET | Flutter | Python
+* 💻 Improving at C# | .NET | Python
 
 ##
 
