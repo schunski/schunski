@@ -6,7 +6,7 @@
 
 ### Education
 
- Internet Systems student at [UTFPR]([https://bioparkeducacao.com/](https://www.utfpr.edu.br/))
+ Internet Systems student at [UTFPR](https://www.utfpr.edu.br/)
 
 ##
 
