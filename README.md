@@ -6,7 +6,7 @@
 
 ### Education
 
- Internet Systems student at [UTFPR](https://www.utfpr.edu.br/)
+Internet Systems Technology student at [UTFPR](https://www.utfpr.edu.br/)
 
 ##
 
