@@ -1,6 +1,6 @@
 ### Welcome!
 
-### Hi, i'm Júnior - aka Juni 😀
+### Hi, i'm Júnior - aka Juni.
 
 ##
 
@@ -14,6 +14,7 @@ Internet Systems Technology student at [UTFPR](https://www.utfpr.edu.br/)
 
 * 🇧🇷 Brazilian Portuguese (Native Language)
 * 🇺🇸 American English (CEFR B1~B2)
+* 🇷🇺 Russian (TORFL A1) 
 
 ##
 
@@ -29,7 +30,6 @@ Internet Systems Technology student at [UTFPR](https://www.utfpr.edu.br/)
 ![GitHub followers](https://img.shields.io/github/followers/schunski?label=Follow&style=social)
 
 ##
-
 
 <b> :chart_with_upwards_trend: Statistics</b>:
 
