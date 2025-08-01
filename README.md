@@ -12,15 +12,16 @@ Internet Systems Technology student at [UTFPR](https://www.utfpr.edu.br/)
 
 ### Languages
 
-* 🇧🇷 Brazilian Portuguese (Native Language)
 * 🇺🇸 American English (CEFR B1~B2)
-* 🇷🇺 Russian (TORFL A1) 
+* 🇧🇷 Brazilian Portuguese (Native Language)
+* 🇫🇷 French (CEFR A1)
+* 🇪🇸 Spanish (CEFR A1)
 
 ##
 
 ### Technologies
 
-* 💻 Improving at C# | .NET | Python
+* 💻 Improving at Python | Power BI | SQL | Java | Kotlin
 
 ##
 
