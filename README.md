@@ -14,7 +14,7 @@ Internet Systems Technology student at [UTFPR](https://www.utfpr.edu.br/)
 
 * 🇺🇸 American English (CEFR B1~B2)
 * 🇧🇷 Brazilian Portuguese (Native Language)
-* 🇫🇷 French (CEFR A1)
+* 🇫🇷 French (CEFR A1) (Heritage Language)
 * 🇪🇸 Spanish (CEFR A1)
 
 ##
